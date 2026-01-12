@@ -1,0 +1,39 @@
+Tax Reporting Overview for Freelancers and Small Businesses
+
+Section 1: Introduction
+
+The platform provides tools to help freelancers and small businesses manage their tax obligations.
+Tax-related data is automatically collected from invoices, expenses, and payments recorded in the system.
+This information can be used to generate tax summaries and reports.
+
+Section 2: Supported Tax Reports
+
+Users can generate the following tax-related reports:
+- Annual income summary
+- Expense breakdown by category
+- VAT summary (for applicable regions)
+- Vendor payment summaries for tax filing
+
+These reports are designed to support common tax filing workflows but do not replace professional tax advice.
+
+Section 3: Generating a Tax Summary Report
+
+To generate a tax summary report:
+
+1. Navigate to the Reports section.
+2. Select Tax Reports.
+3. Choose the reporting period.
+4. Click Generate Report.
+
+The system will compile income and expense data for the selected period and present it in a downloadable format.
+
+Section 4: Exporting Tax Data
+
+Tax reports can be exported in PDF or CSV format.
+Exported data can be shared with accountants or imported into external tax filing tools.
+Users are responsible for ensuring the accuracy of exported data before submitting it to tax authorities.
+
+Section 5: Disclaimer
+
+The platform provides tax-related information for informational purposes only.
+Users should consult a qualified tax professional to ensure compliance with local regulations.

@@ -1,0 +1,14 @@
+Token Count Report
+==================================================
+
+File: vendor_payments_bank_account.txt
+Token count: 349
+--------------------------------------------------
+File: tax_reporting_overview.txt
+Token count: 273
+--------------------------------------------------
+
+Summary
+==================================================
+Number of documents: 2
+Total tokens: 622

@@ -1,0 +1,39 @@
+Vendor Payments & Bank Account Management
+
+Section 1: Overview
+
+The platform enables freelancers and small businesses to manage vendor payments efficiently.
+Vendor payments are executed using a connected bank account that is configured within the user’s account.
+To ensure accurate and timely payments, users must keep their banking information up to date.
+
+Section 2: Vendor Payment Flow
+
+When a vendor payment is created, the system automatically uses the primary bank account on file.
+Payments can be scheduled, reviewed, and tracked from the Payments dashboard.
+Completed payments are not affected by future changes to bank account settings.
+
+Section 3: Managing Bank Accounts for Vendor Payments
+
+Each account can have one primary bank account assigned for vendor payments.
+This bank account is used as the default source for all outgoing vendor payments.
+Users may add multiple bank accounts, but only one can be marked as the primary account.
+
+Section 4: How to Change the Bank Account Used for Vendor Payments
+
+To change the bank account used for vendor payments, follow these steps:
+
+1. Go to the Settings page from the main navigation menu.
+2. Select Payments.
+3. Open the Bank Accounts section.
+4. Choose the bank account you want to use for vendor payments.
+5. Click Set as Primary Account.
+6. Confirm the change.
+
+Once confirmed, all future vendor payments will be processed using the newly selected bank account.
+Payments that have already been completed or are currently in progress will not be affected.
+
+Section 5: Important Notes
+
+The new bank account must be verified before it can be set as the primary account.
+For security reasons, users may be asked to re-authenticate when changing banking information.
+If a payment fails after changing bank accounts, users should check the verification status of the new account.
