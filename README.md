@@ -41,9 +41,7 @@ The system is built as a **multi-agent, graph-based workflow** using LangGraph. 
 
 The following diagram illustrates the overall agent workflow and control flow between nodes:
 
-```text
-[You can replace the image path below with your own local or remote image URL]
-```
+
 
 ![Agentic System Architecture](./graph_diagram.png)
 
@@ -68,7 +66,7 @@ pip install -r requirements.txt
 
 ```bash
 cp .env.example .env
-# then edit .env and add your API key
+# then edit .env and add your API key: API_KEY = ''
 ```
 
 ---
