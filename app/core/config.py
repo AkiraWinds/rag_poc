@@ -7,14 +7,15 @@ Import this module to access the configured models.
 import os
 from dotenv import load_dotenv
 from langchain_openai import OpenAIEmbeddings
+from langchain_openai import ChatOpenAI
 load_dotenv()
 
 slm_embedding = OpenAIEmbeddings(
     model="text-embedding-3-small",
-    api_key=os.getenv("SLM_API_KEY")
+    api_key=os.getenv("API_KEY")
 )
 
-slm_generation = OpenAIEmbeddings(
-    model="gpt-5-mini",
-    api_key=os.getenv("SLM_API_KEY")
+llm_generation = ChatOpenAI(
+    model="gpt-5.2-2025-12-11",
+    api_key=os.getenv("API_KEY")
 )
